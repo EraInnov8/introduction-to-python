@@ -10,6 +10,8 @@ for key, value in personal_info.items():
     print(f"{key}: {value}")
 
 
+# ------------------------------------------------------------------------------------------------------------------------------------------
+
 # 2.  Write a program that converts temperatures from Celsius to Fahrenheit and vice versa using the formula F = (C * 9/5) + 32.
 print("Temperature Converter")
 print("1. Celsius to Fahrenheit")
