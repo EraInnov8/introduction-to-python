@@ -2,7 +2,7 @@
 
 Have you ever seen a chemistry laboratory?
 
-![Two researchers in protective gear, conducting experiments in a chemistry laboratory](../assets/images/chemistry_lab.png)
+<img src="../assets/images/chemistry_lab.png" alt="Two researchers in protective gear, conducting experiments in a chemistry laboratory" width="500" height="300">
 
 Imagine. A researcher adds two chemicals together. At 20°C, they create a life-saving medicine. At 22°C, they produce a toxic compound. This razor-thin margin is why chemistry laboratories operate under strict environmental control. Without this precision, a scientific experiment becomes guesswork. A safe reaction could turn explosive. A cancer treatment discovery today might be impossible to recreate tomorrow.
 
