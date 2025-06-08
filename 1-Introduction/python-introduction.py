@@ -1,20 +1,26 @@
 # Hello World
 print('Hello World')
 
+# Variables
+s = 'Hello World'  # String
+b = 2  # Integer
+c = 3.14159  # Float
+is_studying = True  # Boolean
+
+# interpreter vs compiler
+
+# Asking user's input
+color = input('What is your favourite color?')
+print(color)
+print('Favourite color is', color)
+print(f'Favourite color is {color}')
+
 # Indentation in Python
 a = 4
 if a > 5:
     print('Greater')
 else:
     print('Smaller')
-
-
-# Variables
-b = 2  # Integer
-c = 3.14159  # Float
-s = 'Hello World'  # String
-is_studying = True  # Boolean
-
 
 # Arithmetic Operators
 
